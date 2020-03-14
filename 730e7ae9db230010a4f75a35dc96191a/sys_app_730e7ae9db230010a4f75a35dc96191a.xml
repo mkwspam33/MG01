@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="MG01">fb0e7ae9db230010a4f75a35dc96198c</menu>
+        <name>MG01</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>global</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>730e7ae9db230010a4f75a35dc96191a</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2020-03-14 16:19:30</sys_created_on>
+        <sys_id>730e7ae9db230010a4f75a35dc96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2020-03-14 16:19:30</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="mg01_user" name="mg01_user">b30e7ae9db230010a4f75a35dc961992</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
